@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I am currently a student majoring in computer science.
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
+
+
+
+
+
+
+
+
 <!--
 **icynic/icynic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
