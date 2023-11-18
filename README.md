@@ -3,7 +3,7 @@
 I am currently a student majoring in computer science.
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,pytorch,html,css,js,vue,nodejs,mysql,godot)](https://skillicons.dev)
 
 
 
