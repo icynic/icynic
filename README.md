@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am currently a student majoring in computer science.
+I am currently a student majoring in data science.
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,pytorch,html,css,js,vue,nodejs,django,mysql,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,r,c,cpp,java,html,css,js,vue,vite,vuetify,nodejs,django,mysql,postgres,linux,docker,selenium,unity,godot,ps,obsidian)](https://skillicons.dev)
 
 
 
